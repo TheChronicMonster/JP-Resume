@@ -144,7 +144,7 @@ var projects = {
 	"projects": [
 		{
 			"title" : "Portfolio Mockup",
-			"url" : "https://github.com/TheChronicMonster/Mug-MockUp",
+			"url" : "http://thechronicmonster.github.io/mug-mockup/",
 			"dates" : "November 2014",
 			"description" : "I created a web friendly mockup from a pdf file. Project utilizes HTML, Bootstrap and a JavaScript Modal.",
 			"image" : "images/mug.png"
